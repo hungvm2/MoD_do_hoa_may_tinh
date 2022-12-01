@@ -1,0 +1,22 @@
+\contentsline {section}{\numberline {1}Lời giới thiệu}{3}%
+\contentsline {section}{\numberline {2}Các hệ thống dựa trên loại dữ liệu}{3}%
+\contentsline {subsection}{\numberline {2.1}Dữ liệu khoa học}{3}%
+\contentsline {subsection}{\numberline {2.2}Dữ liệu đa biến}{4}%
+\contentsline {subsection}{\numberline {2.3}Dữ liệu đồ thị}{6}%
+\contentsline {section}{\numberline {3}Các hệ thống dựa trên loại phân tích}{8}%
+\contentsline {subsection}{\numberline {3.1}Thống kê}{8}%
+\contentsline {subsection}{\numberline {3.2}Không gian - Thời gian}{11}%
+\contentsline {section}{\numberline {4}Phân tích và trực quan hóa dữ liệu dạng text}{13}%
+\contentsline {section}{\numberline {5}Hệ thống trực quan hóa tích hợp hiện đại}{15}%
+\contentsline {section}{\numberline {6}Các công cụ trực quan hóa dữ liệu}{16}%
+\contentsline {subsection}{\numberline {6.1}Prefuse}{16}%
+\contentsline {subsection}{\numberline {6.2}Công cụ Visualization}{19}%
+\contentsline {subsection}{\numberline {6.3}Weave}{20}%
+\contentsline {section}{\numberline {7}Thư viện}{22}%
+\contentsline {subsection}{\numberline {7.1}D3.js}{22}%
+\contentsline {subsection}{\numberline {7.2}QGIS}{24}%
+\contentsline {subsection}{\numberline {7.3}Google Maps}{24}%
+\contentsline {subsection}{\numberline {7.4}Circos}{25}%
+\contentsline {section}{\numberline {8}Tài liệu liên quan}{26}%
+\contentsline {section}{\numberline {9}Bài tập}{26}%
+\contentsline {section}{\numberline {10}Một số đề tài}{26}%
